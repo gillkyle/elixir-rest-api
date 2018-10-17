@@ -17,7 +17,7 @@
                         'Elixir.ApiExample.User',
                         'Elixir.ApiExample.UserController',
                         'Elixir.ApiExample.UserSocket',
-                        'Elixir.ApiExample.Web']},
+                        'Elixir.ApiExample.Web','Elixir.Poison.Encoder.Any']},
               {registered,[]},
               {vsn,"0.0.1"},
               {mod,{'Elixir.ApiExample',[]}}]}.
